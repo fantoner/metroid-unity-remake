@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: d5b5c05852f73824ea39a7593d9acfa4
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOOR_ancient_type_mat
+    second: {fileID: 2100000, guid: e4efd0cc98ca86c4d9fd206745d36192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOOR_concrete_mat
+    second: {fileID: 2100000, guid: 5d129d3693acc2b438ebfc93d3b8934c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOOR_ground_2_mat
+    second: {fileID: 2100000, guid: 44ea9f728d409694099f838b3cc6e104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOOR_rockstrips_mat
+    second: {fileID: 2100000, guid: 1e70f0cc0b9ce8944bcebf69df7dad60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMP_shield2_opaq_mat
+    second: {fileID: 2100000, guid: 7e3eb46f6eb9cb34d8d4f012b7338515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5fafb606dd0a4b049935104c9e5151a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM_bolted_mat
+    second: {fileID: 2100000, guid: 4b799123ef07c0248b6801ad2e9ebf66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM_grateing_mat
+    second: {fileID: 2100000, guid: 301051a9f5bb17b4393ccad04d9acbb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM_lighting_alpha_mat
+    second: {fileID: 2100000, guid: c59c58106572f244fa876c7339c885ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM_lighting_mat
+    second: {fileID: 2100000, guid: ccbeefad4de07d048a2ba63c0a65b437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert36_mat
+    second: {fileID: 2100000, guid: b43879ba4888b2a41975bbb59b63a3d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert37_mat
+    second: {fileID: 2100000, guid: 7464cea9f953e8b48af3a47091ad6fe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert38_mat
+    second: {fileID: 2100000, guid: 0240b8a6c9a89394cb8894eac223579d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_dark_dirty_mat
+    second: {fileID: 2100000, guid: b6866e9f29a3a594fa2bdb4403ee83c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_mat
+    second: {fileID: 2100000, guid: 913ef586763513647b65d0e24babd711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_sky1_lambert14_mat
+    second: {fileID: 2100000, guid: fdc5bcd1c95e995468aa25343e28b8d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_sky1_lambert28_mat
+    second: {fileID: 2100000, guid: 32d2f6a759421c14584b808f103ba00c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_rivets_mat
+    second: {fileID: 2100000, guid: 3512b52a98060d346b1ded0bcb5a2adf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pmag1_mat
+    second: {fileID: 2100000, guid: 9e7385040607c3a4cb9368783bb46dd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_reg_mat
+    second: {fileID: 2100000, guid: 0480bdc1ca17d2343a3d615af83556a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand_mat
+    second: {fileID: 2100000, guid: 425b3dcb9f8f3cf4992e8ca4037e03e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_bridge_mat
+    second: {fileID: 2100000, guid: 02256444c30c5ec4db55cc4628bb727e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_door2_mat
+    second: {fileID: 2100000, guid: 7d610e1439118b645aec0a3f78b23111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_door_mat
+    second: {fileID: 2100000, guid: 31b05dfec14ecdd4ea7647240e13b187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_rock_mat
+    second: {fileID: 2100000, guid: 3269a32be74cfe44b86ef17d4404fd06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_main_mat
+    second: {fileID: 2100000, guid: 9fcd1ab64ee8f42488ac392a87a4551f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_zrich_mat
+    second: {fileID: 2100000, guid: 1bfc2a46ca8c76e41b864806db83db24, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

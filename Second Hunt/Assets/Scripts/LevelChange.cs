@@ -10,5 +10,8 @@ Application.LoadLevel("Sanctorus");
 if(Input.GetKeyDown(KeyCode.Alpha2)){
 Application.LoadLevel("arcterra");
 }
+if(Input.GetKeyDown(KeyCode.Alpha3)){
+Application.LoadLevel("alinos_perch");
+}
 }
 }

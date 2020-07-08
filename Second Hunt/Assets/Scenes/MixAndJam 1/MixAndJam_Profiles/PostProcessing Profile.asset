@@ -44,13 +44,13 @@ MonoBehaviour:
     value: 1
   colored:
     overrideState: 1
-    value: 0
+    value: 1
   intensity:
     overrideState: 1
-    value: 0.131
+    value: 0.187
   size:
     overrideState: 1
-    value: 2.48
+    value: 1.39
   lumContrib:
     overrideState: 1
     value: 0.8
@@ -69,16 +69,16 @@ MonoBehaviour:
   active: 0
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   focusDistance:
     overrideState: 1
-    value: 2
+    value: 0.2
   aperture:
     overrideState: 0
     value: 2.4
   focalLength:
     overrideState: 1
-    value: 30
+    value: 8
   kernelSize:
     overrideState: 1
     value: 1
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b77c5407dc277943b591ade9e6b18c5, type: 3}
   m_Name: LensDistortion
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
