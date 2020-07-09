@@ -11,12 +11,13 @@ Material:
   m_Shader: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _MAPPING_LATITUDE_LONGITUDE_LAYOUT _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
     _SUNDISK_HIGH_QUALITY
-  m_LightmapFlags: 4
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
-  disabledShaderPasses: []
+  disabledShaderPasses:
+  - ALWAYS
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -118,20 +119,20 @@ Material:
     - _Exposure: 1
     - _FlipbookMode: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0
+    - _Glossiness: 0.489
     - _GlossyReflections: 1
     - _ImageType: 0
     - _InvFade: 1
     - _Layout: 0
     - _LightingEnabled: 0
     - _Mapping: 1
-    - _Metallic: 0
+    - _Metallic: 1
     - _MirrorOnBack: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Rotation: 0
-    - _Shininess: 0.055
+    - _Shininess: 0.608
     - _SmoothnessTextureChannel: 1
     - _SoftParticlesEnabled: 0
     - _SoftParticlesFarFadeDistance: 1
@@ -145,11 +146,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseScale: {r: 1, g: 1, b: 1, a: 0}
-    - _CameraFadeParams: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 0}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
-    - _Emission: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmisColor: {r: 0.2, g: 0.2, b: 0.2, a: 0}
+    - _Emission: {r: 0.990566, g: 0.990566, b: 0.990566, a: 0}
+    - _EmissionColor: {r: 0.990566, g: 0.990566, b: 0.990566, a: 0}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _GroundColor: {r: 0.369, g: 0.349, b: 0.341, a: 1}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}

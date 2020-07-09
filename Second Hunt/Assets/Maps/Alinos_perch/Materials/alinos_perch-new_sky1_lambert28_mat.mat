@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: alinos_perch-new_sky1_lambert28_mat
   m_Shader: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _EMISSION _MAPPING_LATITUDE_LONGITUDE_LAYOUT _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_ShaderKeywords: _MAPPING_LATITUDE_LONGITUDE_LAYOUT _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
     _SUNDISK_HIGH_QUALITY
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -114,7 +114,7 @@ Material:
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
     - _DstBlend: 0
-    - _EmissionEnabled: 1
+    - _EmissionEnabled: 0
     - _EnableExternalAlpha: 0
     - _Exposure: 1
     - _FlipbookMode: 0
