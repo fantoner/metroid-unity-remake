@@ -4,7 +4,7 @@ A remake of the multiplayer from the NDS game "Metroid Prime Hunters" in Unity.
  ![alt text](https://media.discordapp.net/attachments/728790800342843535/730374551745200269/unknown.png?width=1194&height=671)
 
 ## Discord
-https://discord.gg/zAmMTR
+https://discord.gg/qTWcx79
 
 ## Project status
 https://github.com/Korrokus/metroid-unity-remake/projects/2
